@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/acf712dfc04a4b318eee27cf3e121fe5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: acf712dfc04a4b318eee27cf3e121fe5
+run_name: Session Initialized c408
+run_uuid: acf712dfc04a4b318eee27cf3e121fe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715092815437
+status: 1
+tags: []
+user_id: ellandalla

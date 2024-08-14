@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/dbe2e040ef2c4bffbad4bc9e750e446f/artifacts
+end_time: 1715093149101
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: dbe2e040ef2c4bffbad4bc9e750e446f
+run_name: CatBoost Classifier
+run_uuid: dbe2e040ef2c4bffbad4bc9e750e446f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715093149015
+status: 3
+tags: []
+user_id: ellandalla

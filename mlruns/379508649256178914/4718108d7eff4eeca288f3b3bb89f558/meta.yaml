@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/379508649256178914/4718108d7eff4eeca288f3b3bb89f558/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '379508649256178914'
+lifecycle_stage: active
+run_id: 4718108d7eff4eeca288f3b3bb89f558
+run_name: flawless-colt-118
+run_uuid: 4718108d7eff4eeca288f3b3bb89f558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716214342031
+status: 1
+tags: []
+user_id: ellandalla

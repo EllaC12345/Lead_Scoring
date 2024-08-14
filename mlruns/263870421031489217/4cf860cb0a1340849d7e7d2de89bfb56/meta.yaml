@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/4cf860cb0a1340849d7e7d2de89bfb56/artifacts
+end_time: 1714861330451
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: 4cf860cb0a1340849d7e7d2de89bfb56
+run_name: Light Gradient Boosting Machine
+run_uuid: 4cf860cb0a1340849d7e7d2de89bfb56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714861330423
+status: 3
+tags: []
+user_id: ellandalla

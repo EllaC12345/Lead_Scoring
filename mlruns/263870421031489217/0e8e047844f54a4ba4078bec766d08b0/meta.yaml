@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/0e8e047844f54a4ba4078bec766d08b0/artifacts
+end_time: 1715052003896
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: 0e8e047844f54a4ba4078bec766d08b0
+run_name: Quadratic Discriminant Analysis
+run_uuid: 0e8e047844f54a4ba4078bec766d08b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715052003284
+status: 3
+tags: []
+user_id: ellandalla

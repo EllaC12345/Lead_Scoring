@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/07d7780dea7c43d890e90f636c381460/artifacts
+end_time: 1715051908153
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: 07d7780dea7c43d890e90f636c381460
+run_name: Gradient Boosting Classifier
+run_uuid: 07d7780dea7c43d890e90f636c381460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715051907756
+status: 3
+tags: []
+user_id: ellandalla

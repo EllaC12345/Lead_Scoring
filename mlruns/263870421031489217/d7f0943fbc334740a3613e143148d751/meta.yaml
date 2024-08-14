@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/d7f0943fbc334740a3613e143148d751/artifacts
+end_time: 1715102837170
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: d7f0943fbc334740a3613e143148d751
+run_name: Decision Tree Classifier
+run_uuid: d7f0943fbc334740a3613e143148d751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715102836771
+status: 3
+tags: []
+user_id: ellandalla

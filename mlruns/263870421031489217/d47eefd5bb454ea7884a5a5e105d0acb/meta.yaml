@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/d47eefd5bb454ea7884a5a5e105d0acb/artifacts
+end_time: 1715024380495
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: d47eefd5bb454ea7884a5a5e105d0acb
+run_name: Random Forest Classifier
+run_uuid: d47eefd5bb454ea7884a5a5e105d0acb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715024380456
+status: 3
+tags: []
+user_id: ellandalla

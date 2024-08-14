@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/9a8f6853e32c47608238734596d9cd1f/artifacts
+end_time: 1715051680426
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: 9a8f6853e32c47608238734596d9cd1f
+run_name: Naive Bayes
+run_uuid: 9a8f6853e32c47608238734596d9cd1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715051680223
+status: 3
+tags: []
+user_id: ellandalla

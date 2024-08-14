@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/4ff80c0e3537477888c5a3506af800c2/artifacts
+end_time: 1715009397262
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: 4ff80c0e3537477888c5a3506af800c2
+run_name: Logistic Regression
+run_uuid: 4ff80c0e3537477888c5a3506af800c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715009396860
+status: 3
+tags: []
+user_id: ellandalla

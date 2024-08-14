@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/d1f9692b675b451f92c9815f33472864/artifacts
+end_time: 1715103494308
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: d1f9692b675b451f92c9815f33472864
+run_name: Ridge Classifier
+run_uuid: d1f9692b675b451f92c9815f33472864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715103493919
+status: 3
+tags: []
+user_id: ellandalla

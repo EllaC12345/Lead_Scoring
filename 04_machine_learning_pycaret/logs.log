@@ -1,0 +1,219 @@
+2024-05-03 10:22:01,451:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-03 10:22:01,452:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-03 10:22:01,452:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-03 10:22:01,452:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 10:13:38,546:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 10:13:38,547:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 10:13:38,547:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 10:13:38,547:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 14:37:24,288:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 14:37:24,289:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 14:37:24,289:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 14:37:24,289:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 15:19:47,368:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/joblib/memory.py:999: DeprecationWarning:
+
+bytes_limit argument has been deprecated. It will be removed in version 1.5. Please pass its value directly to Memory.reduce_size.
+
+
+2024-05-06 09:44:51,446:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 09:44:51,447:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 09:44:51,447:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 09:44:51,447:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 09:45:43,748:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/joblib/memory.py:999: DeprecationWarning:
+
+bytes_limit argument has been deprecated. It will be removed in version 1.5. Please pass its value directly to Memory.reduce_size.
+
+
+2024-05-06 13:05:42,093:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 13:05:42,093:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 13:05:42,093:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 13:05:42,093:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 13:06:48,348:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/joblib/memory.py:999: DeprecationWarning:
+
+bytes_limit argument has been deprecated. It will be removed in version 1.5. Please pass its value directly to Memory.reduce_size.
+
+
+2024-05-06 23:39:06,495:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 23:39:06,495:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 23:39:06,495:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 23:39:06,495:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-06 23:40:42,042:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/joblib/memory.py:999: DeprecationWarning:
+
+bytes_limit argument has been deprecated. It will be removed in version 1.5. Please pass its value directly to Memory.reduce_size.
+
+
+2024-05-07 10:38:44,311:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-07 10:38:44,311:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-07 10:38:44,311:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-07 10:38:44,311:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-07 10:39:58,043:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/joblib/memory.py:999: DeprecationWarning:
+
+bytes_limit argument has been deprecated. It will be removed in version 1.5. Please pass its value directly to Memory.reduce_size.
+
+
+2024-05-07 15:24:40,252:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-07 15:24:40,252:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-07 15:24:40,252:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-07 15:24:40,252:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-07 15:42:44,307:INFO:Initializing load_model()
+2024-05-07 15:42:44,308:INFO:load_model(model_name=models/blended_models_final, platform=None, authentication=None, verbose=True)
+2024-05-07 15:42:44,434:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/pycaret/utils/_dependencies.py:39: DeprecationWarning:
+
+distutils Version classes are deprecated. Use packaging.version instead.
+
+
+2024-05-07 15:42:44,434:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/pycaret/utils/_dependencies.py:39: DeprecationWarning:
+
+distutils Version classes are deprecated. Use packaging.version instead.
+
+
+2024-05-07 15:42:44,434:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/pycaret/utils/_dependencies.py:39: DeprecationWarning:
+
+distutils Version classes are deprecated. Use packaging.version instead.
+
+
+2024-05-07 15:42:44,513:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/pycaret/utils/_dependencies.py:39: DeprecationWarning:
+
+distutils Version classes are deprecated. Use packaging.version instead.
+
+
+2024-05-07 15:42:44,515:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/pycaret/utils/_dependencies.py:39: DeprecationWarning:
+
+distutils Version classes are deprecated. Use packaging.version instead.
+
+
+2024-05-07 15:42:44,566:INFO:Initializing predict_model()
+2024-05-07 15:42:44,566:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x28b17fd10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['tag_count',
+                                             'tag_count_by_optin_day',
+                                             'tag_aws_webinar',
+                                             'tag_learning_lab',
+                                             'tag_learning_lab_05',
+                                             'tag_learning_lab_09',
+                                             'tag_learning_lab_11',
+                                             'tag_learning_lab_12',
+                                             'tag_learning_lab_13',
+                                             'tag_learning_lab_14',
+                                             'tag_learning_lab_15',
+                                             'tag_learning_lab_16',
+                                             'tag_l...
+                                                                      estimator=SGDClassifier(eta0=0.001,
+                                                                                              n_jobs=-1,
+                                                                                              random_state=123))),
+                                              ('K Neighbors Classifier',
+                                               CalibratedClassifierCV(cv=5,
+                                                                      estimator=KNeighborsClassifier(n_jobs=-1))),
+                                              ('Naive Bayes',
+                                               CalibratedClassifierCV(cv=5,
+                                                                      estimator=GaussianNB())),
+                                              ('Decision Tree Classifier',
+                                               CalibratedClassifierCV(cv=5,
+                                                                      estimator=DecisionTreeClassifier(random_state=123)))],
+                                  n_jobs=-1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x110405bc0>)
+2024-05-07 15:42:44,566:INFO:Checking exceptions
+2024-05-07 15:42:44,566:INFO:Preloading libraries
+2024-05-07 15:42:44,566:INFO:Set up data.
+2024-05-07 15:42:44,624:INFO:Set up index.
+2024-05-07 15:43:56,897:INFO:Initializing load_model()
+2024-05-07 15:43:56,897:INFO:load_model(model_name=models/blended_models_final, platform=None, authentication=None, verbose=True)
+2024-05-07 15:43:57,073:INFO:Initializing predict_model()
+2024-05-07 15:43:57,073:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x28bbb2c90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['tag_count',
+                                             'tag_count_by_optin_day',
+                                             'tag_aws_webinar',
+                                             'tag_learning_lab',
+                                             'tag_learning_lab_05',
+                                             'tag_learning_lab_09',
+                                             'tag_learning_lab_11',
+                                             'tag_learning_lab_12',
+                                             'tag_learning_lab_13',
+                                             'tag_learning_lab_14',
+                                             'tag_learning_lab_15',
+                                             'tag_learning_lab_16',
+                                             'tag_l...
+                                                                      estimator=SGDClassifier(eta0=0.001,
+                                                                                              n_jobs=-1,
+                                                                                              random_state=123))),
+                                              ('K Neighbors Classifier',
+                                               CalibratedClassifierCV(cv=5,
+                                                                      estimator=KNeighborsClassifier(n_jobs=-1))),
+                                              ('Naive Bayes',
+                                               CalibratedClassifierCV(cv=5,
+                                                                      estimator=GaussianNB())),
+                                              ('Decision Tree Classifier',
+                                               CalibratedClassifierCV(cv=5,
+                                                                      estimator=DecisionTreeClassifier(random_state=123)))],
+                                  n_jobs=-1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x28d019ee0>)
+2024-05-07 15:43:57,073:INFO:Checking exceptions
+2024-05-07 15:43:57,073:INFO:Preloading libraries
+2024-05-07 15:43:57,074:INFO:Set up data.
+2024-05-07 15:43:57,150:INFO:Set up index.
+2024-05-07 15:47:03,283:INFO:Initializing load_model()
+2024-05-07 15:47:03,283:INFO:load_model(model_name=models/blended_models_final, platform=None, authentication=None, verbose=True)
+2024-05-07 15:47:03,557:INFO:Initializing predict_model()
+2024-05-07 15:47:03,557:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x28a7dfd90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['tag_count',
+                                             'tag_count_by_optin_day',
+                                             'tag_aws_webinar',
+                                             'tag_learning_lab',
+                                             'tag_learning_lab_05',
+                                             'tag_learning_lab_09',
+                                             'tag_learning_lab_11',
+                                             'tag_learning_lab_12',
+                                             'tag_learning_lab_13',
+                                             'tag_learning_lab_14',
+                                             'tag_learning_lab_15',
+                                             'tag_learning_lab_16',
+                                             'tag_l...
+                                                                      estimator=SGDClassifier(eta0=0.001,
+                                                                                              n_jobs=-1,
+                                                                                              random_state=123))),
+                                              ('K Neighbors Classifier',
+                                               CalibratedClassifierCV(cv=5,
+                                                                      estimator=KNeighborsClassifier(n_jobs=-1))),
+                                              ('Naive Bayes',
+                                               CalibratedClassifierCV(cv=5,
+                                                                      estimator=GaussianNB())),
+                                              ('Decision Tree Classifier',
+                                               CalibratedClassifierCV(cv=5,
+                                                                      estimator=DecisionTreeClassifier(random_state=123)))],
+                                  n_jobs=-1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x28d01bec0>)
+2024-05-07 15:47:03,557:INFO:Checking exceptions
+2024-05-07 15:47:03,557:INFO:Preloading libraries
+2024-05-07 15:47:03,557:INFO:Set up data.
+2024-05-07 15:47:03,621:INFO:Set up index.

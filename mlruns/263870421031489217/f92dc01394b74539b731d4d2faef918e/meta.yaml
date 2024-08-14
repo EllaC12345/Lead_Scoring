@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/f92dc01394b74539b731d4d2faef918e/artifacts
+end_time: 1715025674007
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: f92dc01394b74539b731d4d2faef918e
+run_name: Ada Boost Classifier
+run_uuid: f92dc01394b74539b731d4d2faef918e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715025673841
+status: 3
+tags: []
+user_id: ellandalla

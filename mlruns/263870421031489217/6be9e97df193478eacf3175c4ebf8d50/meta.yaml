@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/6be9e97df193478eacf3175c4ebf8d50/artifacts
+end_time: 1715053340231
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: 6be9e97df193478eacf3175c4ebf8d50
+run_name: Extra Trees Classifier
+run_uuid: 6be9e97df193478eacf3175c4ebf8d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715053340175
+status: 3
+tags: []
+user_id: ellandalla

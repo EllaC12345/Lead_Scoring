@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/f5d1419963ba42c48489e66c5e463c8c/artifacts
+end_time: 1715015314224
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: f5d1419963ba42c48489e66c5e463c8c
+run_name: SVM - Linear Kernel
+run_uuid: f5d1419963ba42c48489e66c5e463c8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715015313783
+status: 3
+tags: []
+user_id: ellandalla

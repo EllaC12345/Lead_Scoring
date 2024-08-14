@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/f39c3734ab7a46dda77b70e11f57779c/artifacts
+end_time: 1715054071645
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: f39c3734ab7a46dda77b70e11f57779c
+run_name: Voting Classifier
+run_uuid: f39c3734ab7a46dda77b70e11f57779c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715054070476
+status: 3
+tags: []
+user_id: ellandalla

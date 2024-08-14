@@ -1,0 +1,460 @@
+2024-04-22 10:13:09,088:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 10:13:09,088:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 10:13:09,088:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 10:13:09,088:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 10:32:34,691:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 10:32:34,692:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 10:32:34,692:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 10:32:34,692:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 10:43:46,186:INFO:PyCaret ClassificationExperiment
+2024-04-22 10:43:46,186:INFO:Logging name: clf-default-name
+2024-04-22 10:43:46,186:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-04-22 10:43:46,186:INFO:version 3.3.1
+2024-04-22 10:43:46,186:INFO:Initializing setup()
+2024-04-22 10:43:46,186:INFO:self.USI: 4da4
+2024-04-22 10:43:46,187:INFO:self._variable_keys: {'target_param', 'fold_shuffle_param', 'data', 'exp_id', 'html_param', 'seed', 'pipeline', 'logging_param', 'gpu_n_jobs_param', 'log_plots_param', 'n_jobs_param', '_ml_usecase', 'USI', 'X_test', 'y_train', 'y_test', 'memory', 'fold_groups_param', 'is_multiclass', 'X_train', 'fold_generator', 'idx', '_available_plots', 'fix_imbalance', 'gpu_param', 'exp_name_log', 'y', 'X'}
+2024-04-22 10:43:46,187:INFO:Checking environment
+2024-04-22 10:43:46,187:INFO:python_version: 3.11.7
+2024-04-22 10:43:46,187:INFO:python_build: ('main', 'Dec  4 2023 18:10:11')
+2024-04-22 10:43:46,187:INFO:machine: arm64
+2024-04-22 10:43:46,187:INFO:platform: macOS-14.0-arm64-arm-64bit
+2024-04-22 10:43:46,187:INFO:Memory: svmem(total=17179869184, available=6636093440, percent=61.4, used=8149401600, free=65142784, active=6573752320, inactive=6567526400, wired=1575649280)
+2024-04-22 10:43:46,187:INFO:Physical Core: 8
+2024-04-22 10:43:46,187:INFO:Logical Core: 8
+2024-04-22 10:43:46,187:INFO:Checking libraries
+2024-04-22 10:43:46,187:INFO:System:
+2024-04-22 10:43:46,187:INFO:    python: 3.11.7 (main, Dec  4 2023, 18:10:11) [Clang 15.0.0 (clang-1500.1.0.2.5)]
+2024-04-22 10:43:46,187:INFO:executable: /Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/bin/python
+2024-04-22 10:43:46,187:INFO:   machine: macOS-14.0-arm64-arm-64bit
+2024-04-22 10:43:46,187:INFO:PyCaret required dependencies:
+2024-04-22 10:43:46,364:INFO:                 pip: 24.0
+2024-04-22 10:43:46,364:INFO:          setuptools: 69.0.2
+2024-04-22 10:43:46,364:INFO:             pycaret: 3.3.1
+2024-04-22 10:43:46,364:INFO:             IPython: 8.18.0
+2024-04-22 10:43:46,364:INFO:          ipywidgets: 8.1.2
+2024-04-22 10:43:46,364:INFO:                tqdm: 4.66.2
+2024-04-22 10:43:46,364:INFO:               numpy: 1.26.4
+2024-04-22 10:43:46,364:INFO:              pandas: 2.1.4
+2024-04-22 10:43:46,364:INFO:              jinja2: 3.1.3
+2024-04-22 10:43:46,364:INFO:               scipy: 1.11.4
+2024-04-22 10:43:46,364:INFO:              joblib: 1.3.2
+2024-04-22 10:43:46,364:INFO:             sklearn: 1.4.2
+2024-04-22 10:43:46,364:INFO:                pyod: 1.1.3
+2024-04-22 10:43:46,364:INFO:            imblearn: 0.12.2
+2024-04-22 10:43:46,364:INFO:   category_encoders: 2.6.3
+2024-04-22 10:43:46,364:INFO:            lightgbm: 4.3.0
+2024-04-22 10:43:46,364:INFO:               numba: 0.59.1
+2024-04-22 10:43:46,364:INFO:            requests: 2.31.0
+2024-04-22 10:43:46,364:INFO:          matplotlib: 3.7.5
+2024-04-22 10:43:46,364:INFO:          scikitplot: 0.3.7
+2024-04-22 10:43:46,364:INFO:         yellowbrick: 1.5
+2024-04-22 10:43:46,364:INFO:              plotly: 5.21.0
+2024-04-22 10:43:46,364:INFO:    plotly-resampler: Not installed
+2024-04-22 10:43:46,364:INFO:             kaleido: 0.2.1
+2024-04-22 10:43:46,364:INFO:           schemdraw: 0.15
+2024-04-22 10:43:46,364:INFO:         statsmodels: 0.14.2
+2024-04-22 10:43:46,364:INFO:              sktime: 0.26.0
+2024-04-22 10:43:46,364:INFO:               tbats: 1.1.3
+2024-04-22 10:43:46,364:INFO:            pmdarima: 2.0.4
+2024-04-22 10:43:46,364:INFO:              psutil: 5.9.8
+2024-04-22 10:43:46,364:INFO:          markupsafe: 2.1.5
+2024-04-22 10:43:46,364:INFO:             pickle5: Not installed
+2024-04-22 10:43:46,364:INFO:         cloudpickle: 3.0.0
+2024-04-22 10:43:46,364:INFO:         deprecation: 2.1.0
+2024-04-22 10:43:46,364:INFO:              xxhash: 3.4.1
+2024-04-22 10:43:46,364:INFO:           wurlitzer: 3.0.3
+2024-04-22 10:43:46,364:INFO:PyCaret optional dependencies:
+2024-04-22 10:43:46,915:INFO:                shap: 0.45.0
+2024-04-22 10:43:46,915:INFO:           interpret: Not installed
+2024-04-22 10:43:46,915:INFO:                umap: Not installed
+2024-04-22 10:43:46,915:INFO:     ydata_profiling: Not installed
+2024-04-22 10:43:46,915:INFO:  explainerdashboard: Not installed
+2024-04-22 10:43:46,915:INFO:             autoviz: Not installed
+2024-04-22 10:43:46,915:INFO:           fairlearn: Not installed
+2024-04-22 10:43:46,915:INFO:          deepchecks: Not installed
+2024-04-22 10:43:46,915:INFO:             xgboost: 2.0.3
+2024-04-22 10:43:46,915:INFO:            catboost: 1.2.5
+2024-04-22 10:43:46,915:INFO:              kmodes: Not installed
+2024-04-22 10:43:46,915:INFO:             mlxtend: Not installed
+2024-04-22 10:43:46,915:INFO:       statsforecast: Not installed
+2024-04-22 10:43:46,915:INFO:        tune_sklearn: Not installed
+2024-04-22 10:43:46,915:INFO:                 ray: Not installed
+2024-04-22 10:43:46,915:INFO:            hyperopt: Not installed
+2024-04-22 10:43:46,915:INFO:              optuna: Not installed
+2024-04-22 10:43:46,915:INFO:               skopt: 0.10.1
+2024-04-22 10:43:46,915:INFO:              mlflow: 2.12.1
+2024-04-22 10:43:46,915:INFO:              gradio: Not installed
+2024-04-22 10:43:46,915:INFO:             fastapi: 0.110.2
+2024-04-22 10:43:46,915:INFO:             uvicorn: 0.29.0
+2024-04-22 10:43:46,915:INFO:              m2cgen: Not installed
+2024-04-22 10:43:46,915:INFO:           evidently: Not installed
+2024-04-22 10:43:46,915:INFO:               fugue: Not installed
+2024-04-22 10:43:46,915:INFO:           streamlit: Not installed
+2024-04-22 10:43:46,915:INFO:             prophet: Not installed
+2024-04-22 10:43:46,915:INFO:None
+2024-04-22 10:43:46,915:INFO:Set up data.
+2024-04-22 10:43:46,920:INFO:Set up folding strategy.
+2024-04-22 10:43:46,920:INFO:Set up train/test split.
+2024-04-22 10:43:46,969:INFO:Set up index.
+2024-04-22 10:43:46,970:INFO:Assigning column types.
+2024-04-22 10:43:46,971:INFO:Engine successfully changes for model 'lr' to 'sklearn'.
+2024-04-22 10:43:47,001:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-04-22 10:43:47,003:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2024-04-22 10:43:47,020:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-04-22 10:43:47,021:INFO:Soft dependency imported: catboost: 1.2.5
+2024-04-22 10:43:47,876:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-04-22 10:43:47,876:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2024-04-22 10:43:47,891:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-04-22 10:43:47,892:INFO:Soft dependency imported: catboost: 1.2.5
+2024-04-22 10:43:47,893:INFO:Engine successfully changes for model 'knn' to 'sklearn'.
+2024-04-22 10:43:47,913:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2024-04-22 10:43:47,924:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-04-22 10:43:47,925:INFO:Soft dependency imported: catboost: 1.2.5
+2024-04-22 10:43:47,943:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2024-04-22 10:43:47,954:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-04-22 10:43:47,955:INFO:Soft dependency imported: catboost: 1.2.5
+2024-04-22 10:43:47,955:INFO:Engine successfully changes for model 'rbfsvm' to 'sklearn'.
+2024-04-22 10:43:47,984:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-04-22 10:43:47,985:INFO:Soft dependency imported: catboost: 1.2.5
+2024-04-22 10:43:48,013:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-04-22 10:43:48,014:INFO:Soft dependency imported: catboost: 1.2.5
+2024-04-22 10:43:48,016:INFO:Preparing preprocessing pipeline...
+2024-04-22 10:43:48,017:INFO:Set up simple imputation.
+2024-04-22 10:43:48,018:INFO:Set up encoding of categorical features.
+2024-04-22 10:43:48,039:INFO:Finished creating preprocessing pipeline.
+2024-04-22 10:43:48,041:INFO:Pipeline: Pipeline(memory=FastMemory(location=/var/folders/73/hc_zb17944z42_dsmk15lr780000gn/T/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None, include=['member_rating'],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='mean'))),
+                ('categorical_imputer',
+                 TransformerW...
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='most_frequent'))),
+                ('rest_encoding',
+                 TransformerWrapper(exclude=None, include=['country_code'],
+                                    transformer=TargetEncoder(cols=['country_code'],
+                                                              drop_invariant=False,
+                                                              handle_missing='return_nan',
+                                                              handle_unknown='value',
+                                                              hierarchy=None,
+                                                              min_samples_leaf=20,
+                                                              return_df=True,
+                                                              smoothing=10,
+                                                              verbose=0)))],
+         verbose=False)
+2024-04-22 10:43:48,041:INFO:Creating final display dataframe.
+2024-04-22 10:43:48,095:INFO:Setup _display_container:                     Description             Value
+0                    Session id               123
+1                        Target     made_purchase
+2                   Target type            Binary
+3           Original data shape        (19919, 3)
+4        Transformed data shape        (19919, 3)
+5   Transformed train set shape        (15935, 3)
+6    Transformed test set shape         (3984, 3)
+7              Numeric features                 1
+8          Categorical features                 1
+9      Rows with missing values             32.9%
+10                   Preprocess              True
+11              Imputation type            simple
+12           Numeric imputation              mean
+13       Categorical imputation              mode
+14     Maximum one-hot encoding                25
+15              Encoding method              None
+16               Fold Generator   StratifiedKFold
+17                  Fold Number                10
+18                     CPU Jobs                -1
+19                      Use GPU             False
+20               Log Experiment             False
+21              Experiment Name  clf-default-name
+22                          USI              4da4
+2024-04-22 10:43:48,129:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-04-22 10:43:48,130:INFO:Soft dependency imported: catboost: 1.2.5
+2024-04-22 10:43:48,166:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-04-22 10:43:48,167:INFO:Soft dependency imported: catboost: 1.2.5
+2024-04-22 10:43:48,168:INFO:setup() successfully completed in 1.98s...............
+2024-04-22 10:44:26,529:INFO:Initializing create_model()
+2024-04-22 10:44:26,529:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x1781192d0>, estimator=xgboost, fold=None, round=4, cross_validation=True, predict=True, fit_kwargs=None, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=True, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-04-22 10:44:26,529:INFO:Checking exceptions
+2024-04-22 10:44:26,553:INFO:Importing libraries
+2024-04-22 10:44:26,553:INFO:Copying training dataset
+2024-04-22 10:44:26,560:INFO:Defining folds
+2024-04-22 10:44:26,560:INFO:Declaring metric variables
+2024-04-22 10:44:26,562:INFO:Importing untrained model
+2024-04-22 10:44:26,567:INFO:Extreme Gradient Boosting Imported successfully
+2024-04-22 10:44:26,574:INFO:Starting cross validation
+2024-04-22 10:44:26,576:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-04-22 10:44:28,532:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2024-04-22 10:44:28,802:WARNING:/Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2024-04-22 10:44:28,850:INFO:Calculating mean and std
+2024-04-22 10:44:28,853:INFO:Creating metrics dataframe
+2024-04-22 10:44:28,859:INFO:Finalizing model
+2024-04-22 10:44:28,937:INFO:Uploading results into container
+2024-04-22 10:44:28,938:INFO:Uploading model into container now
+2024-04-22 10:44:28,944:INFO:_master_model_container: 1
+2024-04-22 10:44:28,944:INFO:_display_container: 2
+2024-04-22 10:44:28,944:INFO:XGBClassifier(base_score=None, booster='gbtree', callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device='cpu', early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=-1,
+              num_parallel_tree=None, objective='binary:logistic', ...)
+2024-04-22 10:44:28,944:INFO:create_model() successfully completed......................................
+2024-04-22 10:46:45,216:INFO:Initializing finalize_model()
+2024-04-22 10:46:45,217:INFO:finalize_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x1781192d0>, estimator=XGBClassifier(base_score=None, booster='gbtree', callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device='cpu', early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=-1,
+              num_parallel_tree=None, objective='binary:logistic', ...), fit_kwargs=None, groups=None, model_only=False, experiment_custom_tags=None)
+2024-04-22 10:46:45,217:INFO:Finalizing XGBClassifier(base_score=None, booster='gbtree', callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device='cpu', early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=-1,
+              num_parallel_tree=None, objective='binary:logistic', ...)
+2024-04-22 10:46:45,219:INFO:Initializing create_model()
+2024-04-22 10:46:45,219:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x1781192d0>, estimator=XGBClassifier(base_score=None, booster='gbtree', callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device='cpu', early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=-1,
+              num_parallel_tree=None, objective='binary:logistic', ...), fold=None, round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=False, metrics=None, display=None, model_only=False, return_train_score=False, error_score=0.0, kwargs={})
+2024-04-22 10:46:45,220:INFO:Checking exceptions
+2024-04-22 10:46:45,221:INFO:Importing libraries
+2024-04-22 10:46:45,221:INFO:Copying training dataset
+2024-04-22 10:46:45,221:INFO:Defining folds
+2024-04-22 10:46:45,221:INFO:Declaring metric variables
+2024-04-22 10:46:45,221:INFO:Importing untrained model
+2024-04-22 10:46:45,221:INFO:Declaring custom model
+2024-04-22 10:46:45,222:INFO:Extreme Gradient Boosting Imported successfully
+2024-04-22 10:46:45,224:INFO:Cross validation set to False
+2024-04-22 10:46:45,224:INFO:Fitting Model
+2024-04-22 10:46:45,430:INFO:Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None, include=['member_rating'],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='mean'))),
+                ('categorical_imputer',
+                 TransformerWrapper(exclude=None, include=['country_code'],
+                                    transforme...
+                               importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, multi_strategy=None,
+                               n_estimators=None, n_jobs=-1,
+                               num_parallel_tree=None,
+                               objective='binary:logistic', ...))],
+         verbose=False)
+2024-04-22 10:46:45,430:INFO:create_model() successfully completed......................................
+2024-04-22 10:46:45,490:INFO:_master_model_container: 1
+2024-04-22 10:46:45,491:INFO:_display_container: 2
+2024-04-22 10:46:45,494:INFO:Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None, include=['member_rating'],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='mean'))),
+                ('categorical_imputer',
+                 TransformerWrapper(exclude=None, include=['country_code'],
+                                    transforme...
+                               importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, multi_strategy=None,
+                               n_estimators=None, n_jobs=-1,
+                               num_parallel_tree=None,
+                               objective='binary:logistic', ...))],
+         verbose=False)
+2024-04-22 10:46:45,494:INFO:finalize_model() successfully completed......................................
+2024-04-22 10:48:15,476:INFO:Initializing predict_model()
+2024-04-22 10:48:15,476:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x1781192d0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None, include=['member_rating'],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='mean'))),
+                ('categorical_imputer',
+                 TransformerWrapper(exclude=None, include=['country_code'],
+                                    transforme...
+                               importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, multi_strategy=None,
+                               n_estimators=None, n_jobs=-1,
+                               num_parallel_tree=None,
+                               objective='binary:logistic', ...))],
+         verbose=False), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x17914ea20>)
+2024-04-22 10:48:15,476:INFO:Checking exceptions
+2024-04-22 10:48:15,477:INFO:Preloading libraries
+2024-04-22 10:48:15,479:INFO:Set up data.
+2024-04-22 10:48:15,480:INFO:Set up index.
+2024-04-22 11:33:44,786:INFO:Initializing save_model()
+2024-04-22 11:33:44,787:INFO:save_model(model=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None, include=['member_rating'],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='mean'))),
+                ('categorical_imputer',
+                 TransformerWrapper(exclude=None, include=['country_code'],
+                                    transforme...
+                               importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, multi_strategy=None,
+                               n_estimators=None, n_jobs=-1,
+                               num_parallel_tree=None,
+                               objective='binary:logistic', ...))],
+         verbose=False), model_name=00_jumpstart/models/xgb_model_finalized, prep_pipe_=Pipeline(memory=FastMemory(location=/var/folders/73/hc_zb17944z42_dsmk15lr780000gn/T/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None, include=['member_rating'],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='mean'))),
+                ('categorical_imputer',
+                 TransformerW...
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='most_frequent'))),
+                ('rest_encoding',
+                 TransformerWrapper(exclude=None, include=['country_code'],
+                                    transformer=TargetEncoder(cols=['country_code'],
+                                                              drop_invariant=False,
+                                                              handle_missing='return_nan',
+                                                              handle_unknown='value',
+                                                              hierarchy=None,
+                                                              min_samples_leaf=20,
+                                                              return_df=True,
+                                                              smoothing=10,
+                                                              verbose=0)))],
+         verbose=False), verbose=True, use_case=MLUsecase.CLASSIFICATION, kwargs={})
+2024-04-22 11:33:44,787:INFO:Adding model into prep_pipe
+2024-04-22 11:33:44,787:WARNING:Only Model saved as it was a pipeline.
+2024-04-22 11:33:44,791:INFO:00_jumpstart/models/xgb_model_finalized.pkl saved in current working directory
+2024-04-22 11:33:44,795:INFO:Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None, include=['member_rating'],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='mean'))),
+                ('categorical_imputer',
+                 TransformerWrapper(exclude=None, include=['country_code'],
+                                    transforme...
+                               importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, multi_strategy=None,
+                               n_estimators=None, n_jobs=-1,
+                               num_parallel_tree=None,
+                               objective='binary:logistic', ...))],
+         verbose=False)
+2024-04-22 11:33:44,795:INFO:save_model() successfully completed......................................
+2024-04-22 11:34:10,643:INFO:Initializing load_model()
+2024-04-22 11:34:10,643:INFO:load_model(model_name=00_jumpstart/models/xgb_model_finalized, platform=None, authentication=None, verbose=True)
+2024-04-22 11:35:19,924:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 11:35:19,924:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 11:35:19,924:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 11:35:19,924:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-22 11:36:05,923:INFO:Initializing load_model()
+2024-04-22 11:36:05,924:INFO:load_model(model_name=00_jumpstart/models/xgb_model_finalized, platform=None, authentication=None, verbose=True)
+2024-04-22 11:38:21,569:INFO:Initializing load_model()
+2024-04-22 11:38:21,569:INFO:load_model(model_name=00_jumpstart/models/xgb_model_finalized, platform=None, authentication=None, verbose=True)
+2024-04-22 11:52:19,856:WARNING:<ipython-input-19-f400caab7e1c>:17: RuntimeWarning: coroutine 'main' was never awaited
+  main()
+
+2024-04-22 12:27:01,394:INFO:Initializing load_model()
+2024-04-22 12:27:01,395:INFO:load_model(model_name=00_jumpstart/models/xgb_model_finalized, platform=None, authentication=None, verbose=True)
+2024-04-22 12:27:20,628:WARNING:<ipython-input-23-f400caab7e1c>:17: RuntimeWarning: coroutine 'main' was never awaited
+  main()
+
+2024-04-22 12:32:28,595:INFO:Initializing load_model()
+2024-04-22 12:32:28,595:INFO:load_model(model_name=00_jumpstart/models/xgb_model_finalized, platform=None, authentication=None, verbose=True)
+2024-04-22 12:32:42,457:WARNING:<ipython-input-28-f400caab7e1c>:17: RuntimeWarning: coroutine 'main' was never awaited
+  main()
+
+2024-04-22 12:38:22,998:INFO:Initializing load_model()
+2024-04-22 12:38:22,998:INFO:load_model(model_name=00_jumpstart/models/xgb_model_finalized, platform=None, authentication=None, verbose=True)
+2024-04-22 12:38:23,002:WARNING:<ipython-input-29-9c677ca17a5b>:51: RuntimeWarning: coroutine 'main' was never awaited
+  main()
+
+2024-04-22 12:38:49,003:INFO:Initializing load_model()
+2024-04-22 12:38:49,003:INFO:load_model(model_name=00_jumpstart/models/xgb_model_finalized, platform=None, authentication=None, verbose=True)
+2024-04-22 12:39:10,390:WARNING:<ipython-input-33-f400caab7e1c>:17: RuntimeWarning: coroutine 'main' was never awaited
+  main()
+

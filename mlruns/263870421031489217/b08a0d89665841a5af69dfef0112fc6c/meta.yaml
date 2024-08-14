@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/b08a0d89665841a5af69dfef0112fc6c/artifacts
+end_time: 1714861329379
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: b08a0d89665841a5af69dfef0112fc6c
+run_name: Linear Discriminant Analysis
+run_uuid: b08a0d89665841a5af69dfef0112fc6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714861329353
+status: 3
+tags: []
+user_id: ellandalla

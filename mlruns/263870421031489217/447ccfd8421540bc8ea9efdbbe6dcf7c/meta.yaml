@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/447ccfd8421540bc8ea9efdbbe6dcf7c/artifacts
+end_time: 1715010622116
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: 447ccfd8421540bc8ea9efdbbe6dcf7c
+run_name: Dummy Classifier
+run_uuid: 447ccfd8421540bc8ea9efdbbe6dcf7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715010622052
+status: 3
+tags: []
+user_id: ellandalla

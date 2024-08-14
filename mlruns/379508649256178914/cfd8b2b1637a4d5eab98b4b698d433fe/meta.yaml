@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/379508649256178914/cfd8b2b1637a4d5eab98b4b698d433fe/artifacts
+end_time: 1715386058182
+entry_point_name: ''
+experiment_id: '379508649256178914'
+lifecycle_stage: active
+run_id: cfd8b2b1637a4d5eab98b4b698d433fe
+run_name: suave-cat-635
+run_uuid: cfd8b2b1637a4d5eab98b4b698d433fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715383879641
+status: 3
+tags: []
+user_id: ellandalla

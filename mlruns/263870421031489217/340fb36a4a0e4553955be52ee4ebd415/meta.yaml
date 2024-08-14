@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/340fb36a4a0e4553955be52ee4ebd415/artifacts
+end_time: 1715010469409
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: 340fb36a4a0e4553955be52ee4ebd415
+run_name: Extreme Gradient Boosting
+run_uuid: 340fb36a4a0e4553955be52ee4ebd415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715010468903
+status: 3
+tags: []
+user_id: ellandalla

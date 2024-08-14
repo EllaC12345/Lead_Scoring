@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/mlruns/263870421031489217/3a1276658e4a4d45b9d33b56ad28ad21/artifacts
+end_time: 1715004257936
+entry_point_name: ''
+experiment_id: '263870421031489217'
+lifecycle_stage: active
+run_id: 3a1276658e4a4d45b9d33b56ad28ad21
+run_name: K Neighbors Classifier
+run_uuid: 3a1276658e4a4d45b9d33b56ad28ad21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715004257869
+status: 3
+tags: []
+user_id: ellandalla
