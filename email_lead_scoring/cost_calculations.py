@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import janitor as jn
+import janitor
 import plotly.express as px
 import pandas_flavor as pf
 
@@ -93,8 +93,7 @@ def cost_simulate_unsub_cost(
     email_list_monthly_growth_rate = email_list_monthly_growth_rate,
     customer_conversion_rate = customer_conversion_rate)
 
-    parameter_grid_df = jn.expand_grid(others=data_dict)\
-    .droplevel(level = 1, axis = 1)
+    parameter_grid_df = janitor.cartesian_product(data_dict)
     
     
     # Temporary Function
