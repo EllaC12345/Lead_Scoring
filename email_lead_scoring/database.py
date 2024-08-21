@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import sqlalchemy as sql
+from sqlalchemy import text
 
 import re
 import janitor as jn
@@ -54,22 +55,25 @@ def db_read_raw_els_table(
     #Raw Data Collect
     with engine.connect() as conn:
         df = pd.read_sql(
-            sql = f"Select * From {table_name}",
-            con = conn)
+            sql.text(f"SELECT * FROM {table_name}"),  # Use sql.text for the SQL statement
+            con=conn
+        )
+    
     return df
 
-db_read_raw_els_table('Website')
+# db_read_raw_els_table('Website')
+df = db_read_raw_els_table('Website')
 
 
 # Read & Combine Raw Data
 def db_read_els_data(
-    conn_str = 'sqlite:////Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/00_database/crm_database.sqlite'
+    conn_str = 'sqlite:///00_database/crm_database.sqlite'
 ): 
     """AI is creating summary for db_read_els_data
     Function to read and combine raw data from various tables on the crm database
 
     Args:
-        conn_str (str, optional): [description]. Defaults to 'sqlite:////Users/ellandalla/Desktop/Matt_D_Python/ds4b_2101_p/00_database/crm_database.sqlite'.
+        conn_str (str, optional): [description]. Defaults to 'sqlite:///00_database/crm_database.sqlite'.
 
     Returns:
         [pandas]: [dataframe]
@@ -82,8 +86,9 @@ def db_read_els_data(
     with engine.connect() as conn:
         #Subscribers
         subscribers_df = pd.read_sql(
-            sql = "Select * From Subscribers",
-            con = conn)
+            sql=text("SELECT * FROM Subscribers"),
+            con = conn
+        )
         
         subscribers_df['member_rating'] = subscribers_df['member_rating'].astype('int')
         subscribers_df['optin_time'] = subscribers_df['optin_time'].astype('datetime64[ns]')
@@ -91,14 +96,14 @@ def db_read_els_data(
        
         #tags
         tags_df = pd.read_sql(
-            sql = "Select * From Tags",
+            sql=text("SELECT * FROM Tags"),
             con = conn
         )
         tags_df['mailchimp_id'] = tags_df['mailchimp_id'].astype('int')
     
         # Transactions
         transactions_df = pd.read_sql(
-            sql = "Select * From Transactions",
+            sql=text("SELECT * FROM Transactions"),
             con = conn
         )
      
