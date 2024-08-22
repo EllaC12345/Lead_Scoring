@@ -44,7 +44,7 @@ import plotly.express as px
 #     - Average Customer Lifetime Value: Estimate $2000/customer
 #   - Costs: 
 #     - Marketing sends 5 Sales Emails Per Month
-#     - 5% of lost customers likely to convert if nutured
+#     - 5% of lost customers likely to convert if nurtured
 
 
 #%%
@@ -133,7 +133,6 @@ cost_table_df['Cost_with_growth'].sum() * 0.30
 
 # 2.5% growth scenario: 
 #   amount = principle * ((1+rate)**time)
-
 
 
 

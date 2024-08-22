@@ -232,8 +232,8 @@ report.show_html(
 
 
 # 5.0 DEVELOP KPI'S ----
-# - Reduce unnecessary sales emails by 30% while maintaing 99% of sales
-# - Segment list - apply sales (hot leads), nuture (cold leads)
+# - Reduce unnecessary sales emails by 30% while maintaining 99% of sales
+# - Segment list - apply sales (hot leads), nurture (cold leads)
 
 # EVALUATE PERFORMANCE -----
 subscribers_joined_df[['made_purchase', 'tag_count']]\
