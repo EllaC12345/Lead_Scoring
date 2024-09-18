@@ -1,3 +1,0 @@
-CalibratedClassifierCV(cv=5, ensemble=True,
-                       estimator=GaussianNB(priors=None, var_smoothing=1e-09),
-                       method='sigmoid', n_jobs=None)

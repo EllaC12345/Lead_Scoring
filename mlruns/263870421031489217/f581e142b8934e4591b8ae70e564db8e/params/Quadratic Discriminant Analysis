@@ -1,2 +1,0 @@
-QuadraticDiscriminantAnalysis(priors=None, reg_param=0.0,
-                              store_covariance=False, tol=0.0001)
